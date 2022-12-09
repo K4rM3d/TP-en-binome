@@ -1,3 +1,0 @@
-salade
-orange
-amande
