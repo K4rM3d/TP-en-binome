@@ -1,4 +1,9 @@
 Liste des ingrédients d'un burger :
-Boeuf
 Poulet
 oignons
+pain
+salade
+tomate
+steak
+cornichons
+pain
